@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Quoting something smart*
+
+**About something VERY important**
+
+_Quoting **important** things_
+
+__one last test__
